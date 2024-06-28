@@ -5,6 +5,6 @@ Description
 -------------
 This is Bsaic Java Spring Boot Application: This Web Application Display Sample Message
 
-Clone the repository
-Open the project in your IDE of choice
-Run the application
+1. Clone the repository
+2. Open the project in your IDE of choice
+3. Run the application
